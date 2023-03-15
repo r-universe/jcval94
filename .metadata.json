@@ -1,10 +1,10 @@
 [
   {
-    "package": "FitUltD",
+    "package": "shortcuts",
     "oncran": true
   },
   {
-    "package": "shortcuts",
+    "package": "FitUltD",
     "oncran": true
   }
 ]

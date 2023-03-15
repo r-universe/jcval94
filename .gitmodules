@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "FitUltD"]
-	path = FitUltD
-	url = https://github.com/jcval94/fitultd
-	shallow = true
-	registered = true
 [submodule "shortcuts"]
 	path = shortcuts
 	url = https://github.com/jcval94/shortcuts
+	shallow = true
+	registered = true
+[submodule "FitUltD"]
+	path = FitUltD
+	url = https://github.com/jcval94/fitultd
 	shallow = true
 	registered = true
